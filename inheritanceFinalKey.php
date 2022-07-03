@@ -6,8 +6,7 @@ abstract class OurClass{
 }
 
 class MyClass extends OurClass{
-   
-    }
+
 }
 
 $mc = new MyClass();
